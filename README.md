@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-Im a fan of python and plants.
+I'm a fan of python and plants.
